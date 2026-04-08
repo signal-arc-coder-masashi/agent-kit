@@ -22,14 +22,14 @@
 
 | # | プロジェクト名 | キーワード（タスク検索用） |
 |---|---|---|
-| 1 | さいたまコレクト | さいたま, saitama, コレクト |
+| 1 | {クライアント名} | さいたま, saitama, コレクト |
 | 2 | MATOI | matoi, まとい |
 | 3 | 比杵助 | 比杵助, ひきすけ, LINE |
 | 4 | Signal Craft | signal, craft, SaaS, founder |
 | 5 | InstaAuto | insta, instagram, 自動化 |
 | 6 | リンク付き電子カタログ | flipbook, カタログ, 電子 |
 | 7 | RE:set | reset, re:set, 再構築 |
-| 8 | WEB制作運用代行 | 田口, うさぎ, TJS, アローズ, クリナス |
+| 8 | WEB制作運用代行 | {クライアント名}, うさぎ, {クライアント名}, {クライアント名}, {クライアント名} |
 | 9 | FUTUREMIND | futuremind, olive, フューチャーマインド |
 | 10 | AI導入設計コンサル | コンサル, AI導入, 設計 |
 | 11 | AI情報発信 | AI情報, 発信, リサーチ |
