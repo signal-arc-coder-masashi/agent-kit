@@ -1,0 +1,9 @@
+# install.sh が生成するファイル（絶対パスが含まれるため追跡しない）
+CLAUDE.md
+
+# 個人情報が含まれるファイル（各自で管理）
+reference/clients.md
+reference/context.md
+
+# OS
+.DS_Store
